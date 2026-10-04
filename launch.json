@@ -1,0 +1,10 @@
+{
+  "flight_number": 74,
+  "mission_name": "Iridium NEXT Mission 8",
+  "launch_date_utc": "2019-01-11T15:31:00.000Z",
+  "launch_success": true,
+  "rocket": {
+    "rocket_name": "Falcon 9"
+  },
+  "details": "Historical SpaceX launch used for client testing."
+}
